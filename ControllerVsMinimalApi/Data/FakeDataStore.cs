@@ -1,4 +1,6 @@
-﻿namespace CQRSMediatr.Models
+﻿using CQRSMediatr.Models;
+
+namespace CQRSMediatr.Data
 {
     public class FakeDataStore
     {
