@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34408.163
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRSMediatr", "ControllerVsMinimalApi\CQRSMediatr.csproj", "{6B41F717-47E4-459A-87F7-E46891BE88C8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRSMediatr", "CQRSMediatr\CQRSMediatr.csproj", "{6B41F717-47E4-459A-87F7-E46891BE88C8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
