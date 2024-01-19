@@ -1,4 +1,4 @@
-using CQRSMediatr.Models;
+using CQRSMediatr.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 

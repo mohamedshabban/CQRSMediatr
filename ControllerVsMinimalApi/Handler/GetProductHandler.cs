@@ -1,4 +1,5 @@
-﻿using CQRSMediatr.Models;
+﻿using CQRSMediatr.Data;
+using CQRSMediatr.Models;
 using CQRSMediatr.Queries;
 using MediatR;
 
